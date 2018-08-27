@@ -149,3 +149,14 @@ a:hover, a:focus, a:active {
 .border-color{
     border-color: #824027;
 }
+
+#sitetran_translate_element select {
+	width         : 12em;
+	margin-left   : 0.4em;
+}
+ #sitetran_translate_element img {
+	vertical-align: middle;
+}
+ #sitetran_translate_element {
+	z-index: 2147483647;
+}
