@@ -1,0 +1,85 @@
+/* #*/ export const PERSON = `
+name:
+  first: Ítalo
+  middle:
+  last: Epifânio
+about: Graduando em Tecnologia da Informação na UFRN.
+    Técnico em informática através do ensino médio integrado,
+    no IFRN(Instituto Federal de Educação, Ciência e Tecnologia
+    do Rio Grande do Norte). Foi monitor de Introdução a Lógica
+    e Algoritmos e PEOO (Programação estruturada e orientada a
+    objetos) no IFRN, também exerceu cargo de monitor de História
+    na mesma instituição. Desenvolvedor PHP através do framework
+    Laravel, Python com o framework Django. Tem experiência com
+    MySQL, PostgresSQL, MongoDB, além de HTML5, CSS3, JavaScript 
+    e Jquery. 
+    
+position: Desenvolvedor Full Stack
+
+birth:
+  year: 1997
+  location: Natal, RN
+
+experience:
+- company: Laboratório de Inovação tecnológica em Saúde (LAIS)
+  position: Desenvolvedor
+  timeperiod: Desde abril de 2017
+  description: Desenvolvedor web utilizando PHP e Laravel.
+
+- company: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN)
+  position: Monitor
+  timeperiod: Julho 2016 - Dezembro 2016
+  description: Monitor da disciplina de história.
+
+- company: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN)
+  position: Monitor
+  timeperiod: Julho 2015 - Fevereiro 2016
+  description: Monitor de lógica, algoritmos e programação estruturada e orientada a objetos (PEOO).
+
+education:
+- degree: Bacharel em tecnologia da informação
+  timeperiod: Fevereiro 2017 - Em andamento
+  description: Graduação em andamento pela Universidade Federal do Rio Grande do Norte (UFRN).
+
+- degree: Técnico em Informática
+  timeperiod: Abril 2013 - Dezembro 2016
+  description: Técnico pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN).
+
+# skill level goes 0 to 100
+skills:
+- name: Git
+  level: 91
+- name: Linux
+  level: 83
+- name: PHP
+  level: 80
+- name: Laravel
+  level: 85
+- name: Django
+  level: 82
+- name: Python
+  level: 78
+- name: Postgres
+  level: 86
+- name: MySQL
+  level: 81
+- name: MongoDB
+  level: 70
+- name: HTML5
+  level: 86
+- name: CSS3
+  level: 82
+- name: JavaScript
+  level: 75
+
+knowledge: Proficiênte em inglês.
+
+contact:
+  email: italoepifaniols@gmail.com
+  phone: (84) 99815-3219
+  city: Natal, RN
+  website: http://itepifanio.github.com/
+  github: itepifanio
+# en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
+lang: pt-br
+`
